@@ -7,6 +7,6 @@
 <title>home page</title>
 </head>
 <body>
-<h2>Hello ! my deployment </h2>
+<h4>Hello ! my deployment </h4>
 </body>
 </html>
