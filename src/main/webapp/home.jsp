@@ -7,7 +7,7 @@
 <title>home page</title>
 </head>
 <body>
-<h1> my deployment </h1>
+<h1> jenkins deployment </h1>
     <h1 style="background-color:DodgerBlue;">Hello World</h1>
 </body>
 </html>
